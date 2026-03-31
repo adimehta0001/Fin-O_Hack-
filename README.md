@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="assets/screenshots/dashboard-preview.png" alt="TrustScore Dashboard Preview" width="100%" />
-  <em>← Replace this placeholder with a screenshot of your running dashboard</em>
+  <em>← Functional Dash.mp4</em>
 </p>
 
 <p align="center">
