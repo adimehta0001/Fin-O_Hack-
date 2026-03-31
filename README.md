@@ -3,8 +3,6 @@
 > **Behavioral credit scoring, reimagined.** A real-time financial health dashboard that moves beyond CIBIL scores — evaluating *how* people actually spend, save, and pay.
 
 <p align="center">
-  <img src="assets/screenshots/dashboard-preview.png" alt="TrustScore Dashboard Preview" width="100%" />
-
 </p>
 
 <p align="center">
